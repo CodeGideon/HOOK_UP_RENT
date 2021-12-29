@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hook_up_rent
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# HOOK_UP_RENT
+好客租房项目.
+
+>>>>>>> 942482f438a0d909e5a07956dd370ba9d38710db
